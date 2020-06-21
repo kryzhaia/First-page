@@ -1,0 +1,26 @@
+#theFormName {
+  color: dimgrey;
+}
+
+#form_A {
+  position: absolute;
+  left: 30%;
+  top: 30%;
+  width: 500px;
+  height: 300px;
+  margin-left: -100px;
+  margin-top: -75px;
+  background-color: lightgrey;
+}
+
+#form_A .button {
+  background-color: #fff;
+  color: dimgrey;
+  font-weight: bold;
+}
+
+#form_A .field {
+  background-color: silver;
+  color: dimgrey;
+  font-weight: bold;
+}
